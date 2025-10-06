@@ -46,7 +46,7 @@
 - 🧩 Admin Dashboard for Managing Users  
 **Tech:** Flask, SQLite, HTML, CSS, JS, OpenRouter API  
 
-🔗 [github.com/Aarav-vibecoding/Mirai-AI](https://github.com/Aarav-vibecoding/Mirai-AI)
+🔗 [www.aaravgeneralshop.onrender.com](www.aaravgeneralshop.onrender.com)
 
 ---
 
